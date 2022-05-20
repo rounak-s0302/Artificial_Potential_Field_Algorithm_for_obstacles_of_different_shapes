@@ -2,7 +2,7 @@
 The Artificial Potential field is a path planning algorithm for moving the robot from the initial to the goal point
 by the artificial potential field method found by Khatib. The idea is very simple, the robot is assumed to have positive
 charge and the goal to be negatively charged and all other obstacles are also assumed to have positive charge, so that 
-the robot will attract towards the goal and repulse from the obstacles using suitable field functions based on distance 
+the robot will be attracted towards the goal and repulse from the obstacles using suitable field functions based on distance 
 between all three . By picking suitable field functions , we can optimize our robot’s speed , minimize the number of turns
 it has to take , etc. 
 
